@@ -1,0 +1,45 @@
+.head {
+
+    background-color: orange;
+    border: auto;
+    width: 200px;
+
+
+}
+
+.but1 {
+    background-image: url(images/crystal1.jpg);
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    border: 0px;
+}
+
+.but2 {
+    background-image: url(images/crystal2.jpeg);
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    border: 0px;
+}
+
+.but3 {
+    background-image: url(images/crystal3.jpg);
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    border: 0px;
+}
+
+.but4 {
+    background-image: url(images/crystal4.jpg);
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    border: 0px;
+}
+
+.butho:hover {
+    border: solid black 2px;
+
+}
